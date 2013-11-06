@@ -1,1 +1,1 @@
-Exploration of examples in [Effective JavaScript](http://effectivejs.com/).
+Exploration of the examples in [Effective JavaScript](http://effectivejs.com/).
